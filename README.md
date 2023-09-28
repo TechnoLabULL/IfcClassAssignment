@@ -1,2 +1,5 @@
-# IFC Class Assignment Add-on
-IFC Class Assignment Add-on allows the automated assignment of IFC classes to the different elements of a 3D model created in Blender in order to convert it into a BIM model.
+# IFC Class Assignment add-on
+IFC Class Assignment add-on allows the automated assignment of IFC classes to the different elements of a 3D model created in Blender in order to convert it into a BIM model.
+
+It is designed to serve as a connection between the existing add-ons Archipack 2.x for Blender 3+ and BlenderBIM, making use of the functionalities of both.
+It has been tested with Blender 3.5 and is limited to the IFC4 ADD2 TC1 schema version of the standard.
