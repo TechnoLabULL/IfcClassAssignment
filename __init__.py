@@ -1,5 +1,5 @@
 # IFC Class Assignment Add-on
-# Copyright (c) 2023 Ana Pérez-García
+# Copyright (c) 2023 Ana Pérez-García <aperezga@ull.edu.es>, Norena Martín-Dorta, José Ángel Aranda
 #
 # This file is part of Ifc Class Assignment Add-on.
 #
